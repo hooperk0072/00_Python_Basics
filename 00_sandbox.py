@@ -1,2 +1,4 @@
-print("hello world")
-print("heehoo coding :)")
+name = input('whats ur name man ')
+print('hey {}'.format(name))
+no = input('whats popping ')
+print('cool. idc')
